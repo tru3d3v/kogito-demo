@@ -6,3 +6,5 @@ sudo nano /private/etc/hosts
 
 Run Docker Compose:
 docker-compose -f docker-compose-keycloak.yaml up -d --build
+
+Export realm-export-kogito.json
